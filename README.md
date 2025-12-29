@@ -7,7 +7,7 @@ This repository hosts the **Electronics Laboratory Manual** for:
 - Department of Electrical Engineering and Computer Science  
   Cleveland State University
 
-The manual (December 2021 edition) was developed with support from the **Ohio Space Grant Consortium (OSGC) Curriculum Innovation Proposal (CIP)** and is aligned with **EEC 313 (Electronics I)** and **EEC 314 (Electronics II)**. :contentReference[oaicite:1]{index=1}
+The manual (December 2021 edition) was developed with support from the **Ohio Space Grant Consortium (OSGC) Curriculum Innovation Proposal (CIP)** and is aligned with **EEC 313 (Electronics I)** and **EEC 314 (Electronics II)**.
 
 📄 **PDF manual:**  
 [`docs/EEC315-316-lab-manual-Dec2021.pdf`](docs/EEC315-316-lab-manual-Dec2021.pdf)
@@ -18,15 +18,15 @@ The manual (December 2021 edition) was developed with support from the **Ohio Sp
 
 The labs are designed to:
 
-- Give each student hands-on experience with **diodes, transistors, and op-amps** using bench instruments and low-cost portable kits (e.g., Analog Discovery 2). :contentReference[oaicite:2]{index=2}
+- Give each student hands-on experience with **diodes, transistors, and op-amps** using bench instruments and low-cost portable kits (e.g., Analog Discovery 2). 
 - COVID-19 rendered us to deliver all classes including laboratory courses remotely. We were able to deliver lab experience remotely using AD2 without having to resort to simulations.
-- Provide a **single, consistent manual** that includes pre-labs, post-labs, and integrated theory review sessions for students who may not have taken all prerequisite courses. :contentReference[oaicite:3]{index=3}  
+- Provide a **single, consistent manual** that includes pre-labs, post-labs, and integrated theory review sessions for students who may not have taken all prerequisite courses. 
 
 ---
 
 ## Manual structure
 
-The manual is divided into three parts: :contentReference[oaicite:4]{index=4}
+The manual is divided into three parts: 
 
 1. **Part I – Diodes**
    - Lab 1: Introduction to Electronics / Lab Equipment & PSpice
