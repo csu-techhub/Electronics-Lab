@@ -7,7 +7,7 @@ title: EEC 315/316 Electronics Laboratory
 Welcome to the home page for the **Electronics Laboratory** at  
 **Cleveland State University – Department of Electrical Engineering and Computer Science**.
 
-This site provides access to the **EEC 315 / 316 Electronics Laboratory Manual (Dec 2021)** and related resources. :contentReference[oaicite:5]{index=5}
+This site provides access to the **EEC 315 / 316 Electronics Laboratory Manual (Dec 2021)** and related resources. 
 
 > The manual complements the lecture material in EEC 313 (Electronics I) and EEC 314 (Electronics II) and is organized into three parts:
 > diodes, transistors, and operational amplifiers.
@@ -44,7 +44,7 @@ This site provides access to the **EEC 315 / 316 Electronics Laboratory Manual (
 
 This manual was developed with support from the  
 **Ohio Space Grant Consortium (OSGC) Curriculum Innovation Proposal (CIP)** and reflects contributions from  
-**Prof. Chansu Yu, Dr. Lili Dong, Ms. Anusree Mandali, and Mr. Joel Folkmann**. :contentReference[oaicite:6]{index=6}
+**Prof. Chansu Yu, Dr. Lili Dong, Ms. Anusree Mandali, and Mr. Joel Folkmann**. 
 
 ---
 
